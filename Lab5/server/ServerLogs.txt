@@ -1,0 +1,18 @@
+Server started at 2022-1-24 19:50:47
+User joe has joined at 2022-1-24 19:51:10
+User joe has been added to channel 1 at 2022-1-24 19:51:14
+[joe] siema (2022-1-24 19:51:16)
+User joe has left server at 2022-1-24 19:51:20
+Server started at 2022-1-25 14:13:32
+User joe has joined at 2022-1-25 14:13:45
+User joe has been added to channel 1 at 2022-1-25 14:13:47
+[joe] siema (2022-1-25 14:13:50)
+[joe] dupa (2022-1-25 14:13:53)
+[joe] costam (2022-1-25 14:13:55)
+User joe has left server at 2022-1-25 14:15:59
+Server started at 2022-1-25 14:16:16
+User joe has joined at 2022-1-25 14:21:21
+User joe has been added to channel 1 at 2022-1-25 14:21:22
+[joe] siema (2022-1-25 14:21:24)
+[joe] dupa (2022-1-25 14:21:27)
+User joe has left server at 2022-1-25 14:21:36
